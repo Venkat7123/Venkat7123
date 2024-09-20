@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Venkat7123
-- 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ... Web Application Development 
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... GitHub 
 - 📫 How to reach me ... venkatachalamsubramanian23@gmail.com
-- 😄 Pronouns: ... Student
-- ⚡ Fun fact: ... Code makes anything 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!---
 Venkat7123/Venkat7123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
