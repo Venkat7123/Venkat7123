@@ -1,70 +1,74 @@
 <!-- Top Banner Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&animation=twinkling&text=Venkatachalam%20S&fontSize=40&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%7C%20Cloud&descSize=18&descAlignY=58" width="100%" />
 
-<!-- Character avatar - left aligned below banner -->
-<img src="https://raw.githubusercontent.com/Venkat7123/Venkat7123/main/Character.png" width="200" align="left" alt="Venkatachalam S - Dev Avatar" />
+<!-- Header: Avatar left | Typing + Socials right -->
+<table style="background:transparent;border:none;" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="35%" valign="middle" style="border:none;">
+  <img src="https://raw.githubusercontent.com/Venkat7123/Venkat7123/main/Character.png" width="210" alt="Venkatachalam S - Dev Avatar" />
+</td>
+<td align="center" width="65%" valign="middle" style="border:none;">
 
-<div align="center">
+  <a href="https://github.com/Venkat7123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Oracle+Java+SE+21+Certified+Professional+%E2%98%95%3BGoogle+Student+Ambassador+2026+%F0%9F%8C%9F%3BTurning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/Venkat7123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Oracle+Java+SE+21+Certified+Professional+%E2%98%95%3BGoogle+Student+Ambassador+2026+%F0%9F%8C%9F%3BTurning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+  <br/>
 
-<br/>
-<table><tr>
-  <td align="center"><a href="https://linkedin.com/in/venkatachalam-subramanian/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br/><sub><b>LinkedIn</b></sub></a></td>
-  <td align="center"><a href="https://github.com/Venkat7123"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub></a></td>
-  <td align="center"><a href="mailto:venkatachalamsubramanian23@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48"/><br/><sub><b>Gmail</b></sub></a></td>
-  <td align="center"><a href="https://leetcode.com/Venkat7123"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/><br/><sub><b>LeetCode</b></sub></a></td>
-</tr></table>
-</div>
+  <a href="https://linkedin.com/in/venkatachalam-subramanian/"><img src="https://skillicons.dev/icons?i=linkedin" width="44"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Venkat7123"><img src="https://skillicons.dev/icons?i=github" width="44"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:venkatachalamsubramanian23@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="44"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/Venkat7123"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="44"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 
 ## 🧑‍💻 About Me
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '28px', 'fontFamily': 'Fira Code'}, 'flowchart': {'useMaxWidth': false, 'nodeSpacing': 60, 'rankSpacing': 80}}}%%
-flowchart TD
-    A(["🧑‍💻 Venkatachalam S\nIT Undergrad · Full Stack Engineer\nGoogle Student Ambassador 🌟\nOracle Java SE 21 Certified ☕"])
-
-    A --> B(["⚙️ Core Technologies"])
-    B --> B1(["💻 Languages\nJava · Python · JS · TS · C"])
-    B --> B2(["🎨 Frontend\nReact · Next.js · Tailwind"])
-    B --> B3(["⚙️ Backend\nSpring Boot · Node.js · Express"])
-    B --> B4(["☁️ Databases & Cloud\nMongoDB · Firebase · AWS"])
-
-    A --> C(["🌐 Domains of Experience"])
-    C --> C1(["🤖 Generative AI & ML\nOpenAI · Gemini · Scikit-Learn"])
-    C --> C2(["🔗 Real-Time Systems\nSocket.io · REST APIs · WebSockets"])
-    C --> C3(["☁️ Cloud Computing\nAWS · Azure · GCP"])
-    C --> C4(["🔐 Web3 & Blockchain\nZero-Knowledge Proofs · Cardano"])
-
-    A --> D(["🔥 Areas of Passion"])
-    D --> D1(["Full-Stack Software Engineering"])
-    D --> D2(["AI & Agentic Systems"])
-    D --> D3(["Backend Engineering"])
-    D --> D4(["Cloud & Distributed Systems"])
-    D --> D5(["Scalable System Design"])
-
-    style A fill:#0d1117,stroke:#00d9ff,stroke-width:3px,color:#00d9ff
-    style B fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
-    style B1 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
-    style B2 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
-    style B3 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
-    style B4 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
-    style C fill:#0d1117,stroke:#bc8cff,stroke-width:2px,color:#bc8cff
-    style C1 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
-    style C2 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
-    style C3 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
-    style C4 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
-    style D fill:#0d1117,stroke:#e3b341,stroke-width:2px,color:#e3b341
-    style D1 fill:#161b22,stroke:#e3b341,color:#cdd9e5
-    style D2 fill:#161b22,stroke:#e3b341,color:#cdd9e5
-    style D3 fill:#161b22,stroke:#e3b341,color:#cdd9e5
-    style D4 fill:#161b22,stroke:#e3b341,color:#cdd9e5
-    style D5 fill:#161b22,stroke:#e3b341,color:#cdd9e5
+mindmap
+  root(("🧑‍💻 Venkatachalam S
+  Full Stack Engineer"))
+    ("⚙️ Core Technologies")
+      ("💻 Languages
+      Java · Python · JS · TS · C")
+      ("🎨 Frontend
+      React · Next.js · Tailwind")
+      ("⚙️ Backend
+      Spring Boot · Node.js · Express")
+      ("🗄️ Databases
+      MongoDB · MySQL · Firebase · Supabase")
+      ("☁️ Cloud
+      AWS · Azure · GCP · Docker")
+    ("🌐 Experience Domains")
+      ("🤖 Generative AI & ML
+      OpenAI · Gemini · Scikit-Learn")
+      ("🔗 Real-Time Systems
+      Socket.io · REST APIs")
+      ("☁️ Cloud Computing
+      AWS · Azure · GCP")
+      ("🔐 Web3 & Blockchain
+      ZK Proofs · Cardano")
+    ("🏆 Highlights")
+      ("🌟 Google Student Ambassador 2026")
+      ("☕ Oracle Java SE 21 Certified")
+      ("🧠 LeetCode 350+ · Rating 1646")
+      ("🏅 Cardano Hackathon Finalist")
+      ("💻 Microsoft Club Secretary")
+    ("🔥 Areas of Passion")
+      ("Full-Stack Engineering")
+      ("AI & Agentic Systems")
+      ("Backend Engineering")
+      ("Cloud & Distributed Systems")
+      ("Scalable System Design")
 ```
 
 ---
@@ -147,6 +151,9 @@ flowchart TD
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat7123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<br />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat7123&theme=tokyonight&hide_border=true" />
 
 <br/>
