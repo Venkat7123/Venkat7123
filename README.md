@@ -1,5 +1,5 @@
 <!-- Top wave strip -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=120&section=header&animation=twinkling" width="100%"/>
 
 <!-- Name + Character side by side -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://github.com/Venkat7123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Oracle+Java+SE+21+Certified+Professional+☕;Google+Student+Ambassador+2026+🌟;Turning+Ideas+into+Reality+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Oracle+Java+SE+21+Certified+Professional+%E2%98%95%3BGoogle+Student+Ambassador+2026+%F0%9F%8C%9F%3BTurning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,10 +35,14 @@
 ## 🧑‍💻 About Me
 
 ```mermaid
-flowchart LR
+flowchart TD
     A(["🧑‍💻 Venkatachalam S\nIT Undergrad · Full Stack Engineer\nGoogle Student Ambassador 🌟\nOracle Java SE 21 Certified ☕"])
 
-    A --> B(["⚙️ Core Technologies\nReact · Node.js · Spring Boot\nJava · Python · TypeScript\nMongoDB · Firebase · AWS"])
+    A --> B(["⚙️ Core Technologies"])
+    B --> B1(["💻 Languages\nJava · Python · JS · TS · C"])
+    B --> B2(["🎨 Frontend\nReact · Next.js · Tailwind"])
+    B --> B3(["⚙️ Backend\nSpring Boot · Node.js · Express"])
+    B --> B4(["☁️ Databases & Cloud\nMongoDB · Firebase · AWS"])
 
     A --> C(["🌐 Domains of Experience"])
     C --> C1(["🤖 Generative AI & ML\nOpenAI · Gemini · Scikit-Learn"])
@@ -55,6 +59,10 @@ flowchart LR
 
     style A fill:#0d1117,stroke:#00d9ff,stroke-width:3px,color:#00d9ff
     style B fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
+    style B1 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
+    style B2 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
+    style B3 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
+    style B4 fill:#161b22,stroke:#58a6ff,color:#cdd9e5
     style C fill:#0d1117,stroke:#bc8cff,stroke-width:2px,color:#bc8cff
     style C1 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
     style C2 fill:#161b22,stroke:#bc8cff,color:#cdd9e5
