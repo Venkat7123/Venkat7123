@@ -34,6 +34,7 @@
 ## 🧑‍💻 About Me
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
   root(("🧑‍💻 Venkatachalam S
   Full Stack Engineer"))
@@ -56,12 +57,10 @@ mindmap
       ("☁️ Cloud Computing
       AWS · Azure · GCP")
       ("🔐 Web3 & Blockchain
-      ZK Proofs · Cardano")
+      ZK Proofs")
     ("🏆 Highlights")
       ("🌟 Google Student Ambassador 2026")
       ("☕ Oracle Java SE 21 Certified")
-      ("🧠 LeetCode 350+ · Rating 1646")
-      ("🏅 Cardano Hackathon Finalist")
       ("💻 Microsoft Club Secretary")
     ("🔥 Areas of Passion")
       ("Full-Stack Engineering")
