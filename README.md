@@ -1,15 +1,8 @@
-<!-- Name + Character side by side -->
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td valign="middle">
-  <img src="https://raw.githubusercontent.com/Venkat7123/Venkat7123/main/Character.png" width="180" alt="Venkatachalam S - Dev Avatar" />
-</td>
-<td valign="middle">
-  <h1 style="margin:0">Venkatachalam S</h1>
-  <p style="margin:4px 0 0 0"><b>Full Stack Engineer &nbsp;|&nbsp; AI &nbsp;|&nbsp; Cloud</b></p>
-</td>
-</tr>
-</table>
+<!-- Top Banner Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&animation=twinkling&text=Venkatachalam%20S&fontSize=40&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%7C%20Cloud&descSize=18&descAlignY=58" width="100%" />
+
+<!-- Character avatar - left aligned below banner -->
+<img src="https://raw.githubusercontent.com/Venkat7123/Venkat7123/main/Character.png" width="200" align="left" alt="Venkatachalam S - Dev Avatar" />
 
 <div align="center">
 
@@ -32,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '20px'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '28px', 'fontFamily': 'Fira Code'}, 'flowchart': {'useMaxWidth': false, 'nodeSpacing': 60, 'rankSpacing': 80}}}%%
 flowchart TD
     A(["🧑‍💻 Venkatachalam S\nIT Undergrad · Full Stack Engineer\nGoogle Student Ambassador 🌟\nOracle Java SE 21 Certified ☕"])
 
