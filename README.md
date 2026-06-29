@@ -6,6 +6,9 @@
 <tr>
 <td align="center" width="35%" valign="middle" style="border:none;">
   <img src="https://raw.githubusercontent.com/Venkat7123/Venkat7123/main/Character.png" width="210" alt="Venkatachalam S - Dev Avatar" />
+  <br/><br/>
+  <p style="margin:0; font-size:16px;"><b>💬 Let's Connect & Build!</b></p>
+  <sub style="color:#8b949e;">Always open to collaborations</sub>
 </td>
 <td align="center" width="65%" valign="middle" style="border:none;">
 
@@ -13,15 +16,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Oracle+Java+SE+21+Certified+Professional+%E2%98%95%3BGoogle+Student+Ambassador+2026+%F0%9F%8C%9F%3BTurning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <a href="https://linkedin.com/in/venkatachalam-subramanian/"><img src="https://skillicons.dev/icons?i=linkedin" width="44"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Venkat7123"><img src="https://skillicons.dev/icons?i=github" width="44"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:venkatachalamsubramanian23@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="44"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/Venkat7123"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="44"/></a>
+  <!-- Horizontal Connection Icons -->
+  <table style="background:transparent;border:none;" border="0" cellpadding="6" cellspacing="0" align="center">
+    <tr>
+      <td align="center" style="border:none;">
+        <a href="https://linkedin.com/in/venkatachalam-subramanian/"><img src="https://skillicons.dev/icons?i=linkedin" width="44"/><br/><sub><b>LinkedIn</b></sub></a>
+      </td>
+      <td align="center" style="border:none;">
+        <a href="https://github.com/Venkat7123"><img src="https://skillicons.dev/icons?i=github" width="44"/><br/><sub><b>GitHub</b></sub></a>
+      </td>
+      <td align="center" style="border:none;">
+        <a href="mailto:venkatachalamsubramanian23@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="44"/><br/><sub><b>Email</b></sub></a>
+      </td>
+      <td align="center" style="border:none;">
+        <a href="https://leetcode.com/Venkat7123"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="44"/><br/><sub><b>LeetCode</b></sub></a>
+      </td>
+    </tr>
+  </table>
 
 </td>
 </tr>
@@ -33,41 +46,31 @@
 
 ## 🧑‍💻 About Me
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'background': 'transparent' }}}%%
-mindmap
-  root(("🧑‍💻 Venkatachalam S
-  Full Stack Engineer"))
-    ("⚙️ Core Technologies")
-      ("💻 Languages
-      Java · Python · JS · TS · C")
-      ("🎨 Frontend
-      React · Next.js · Tailwind")
-      ("⚙️ Backend
-      Spring Boot · Node.js · Express")
-      ("🗄️ Databases
-      MongoDB · MySQL · Firebase · Supabase")
-      ("☁️ Cloud
-      AWS · Azure · GCP · Docker")
-    ("🌐 Experience Domains")
-      ("🤖 Generative AI & ML
-      OpenAI · Gemini · Scikit-Learn")
-      ("🔗 Real-Time Systems
-      Socket.io · REST APIs")
-      ("☁️ Cloud Computing
-      AWS · Azure · GCP")
-      ("🔐 Web3 & Blockchain
-      ZK Proofs")
-    ("🏆 Highlights")
-      ("🌟 Google Student Ambassador 2026")
-      ("☕ Oracle Java SE 21 Certified")
-      ("💻 Microsoft Club Secretary")
-    ("🔥 Areas of Passion")
-      ("Full-Stack Engineering")
-      ("AI & Agentic Systems")
-      ("Backend Engineering")
-      ("Cloud & Distributed Systems")
-      ("Scalable System Design")
+```typescript
+class Venkatachalam extends FullStackEngineer {
+  readonly name = "Venkatachalam S";
+  readonly role = "IT Undergraduate & Full Stack Engineer";
+  readonly education = "Saveetha Engineering College";
+
+  stack = {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Spring Boot", "Node.js", "Express.js"],
+    apis: ["REST APIs", "Socket.io"],
+    databases: ["MongoDB", "MySQL", "Firebase", "Supabase"],
+    cloud: ["AWS", "Docker"],
+    ai: ["OpenAI", "Gemini"]
+  };
+
+  highlights = [
+    "Oracle Java SE 21 Certified ☕",
+    "Google Student Ambassador 🌟",
+    "Microsoft Club Secretary 💻"
+  ];
+
+  mission() {
+    return "Creating software that solves real-world problems through AI and cloud technologies. 🚀";
+  }
+}
 ```
 
 ---
