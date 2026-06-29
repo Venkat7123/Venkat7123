@@ -1,6 +1,3 @@
-<!-- Top wave strip -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=120&section=header&animation=twinkling" width="100%"/>
-
 <!-- Name + Character side by side -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
 <tr>
@@ -35,6 +32,7 @@
 ## 🧑‍💻 About Me
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '20px'}}}%%
 flowchart TD
     A(["🧑‍💻 Venkatachalam S\nIT Undergrad · Full Stack Engineer\nGoogle Student Ambassador 🌟\nOracle Java SE 21 Certified ☕"])
 
@@ -162,14 +160,6 @@ flowchart TD
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat7123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venkat7123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
